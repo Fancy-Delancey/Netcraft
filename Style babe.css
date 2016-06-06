@@ -147,7 +147,7 @@ nav{
     width: 1164px;
     position: absolute;
     margin: 0 auto;
-    left: 48px;
+    left: 56px;
     top: 349px;
     padding: 0;
     height: 600px;
@@ -170,11 +170,8 @@ nav{
     margin: 63px auto;
     width: 1126px;
     padding: 1px 0 50px;
-    box-shadow: 10px 10px 10px #a0a0a0;
-    /*position: absolute;*/
 }
 form{
-
     position: absolute;
     display: inline-block;
     margin: 0 auto;
@@ -182,6 +179,8 @@ form{
     width: 1126px;
     left: 19px;
     top: 114px;
+    box-shadow: 10px 10px 10px #a0a0a0;
+
 }
 
 .input-text{
